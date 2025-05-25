@@ -17,5 +17,6 @@
 
 ## リンク集
 
+- [ブログ](https://suito-kig.github.io/blog/)
 - [X(Twitter)](https://x.com/suito_kig)
 - [Bluesky](https://bsky.app/profile/suito-kig.bsky.social)
